@@ -8,7 +8,7 @@ Here I will keep track of every project that I've made. Keep in mind that you ma
 The idea of this Portfolio is to document/organize my projects and to keep track of my progress and evolution throughout the years.
 
 
-## Projects
+## Projects Timeline
 
 | Date| Project| Description|
 |---	|---	|---	|
