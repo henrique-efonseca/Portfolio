@@ -14,4 +14,4 @@ The idea of this Portfolio is to document/organize my projects and to keep track
 |---	|---	|---	|
 |October 2018 - March 2019| [AstroPi](https://github.com/henrique-efonseca/AstroPi)| Project that I did in Secondary School for the european contest **AstroPi** organized by ESA (European Space Agency)|
 |September 2019 - Present | [College Projects](https://github.com/henrique-efonseca/College-Projects)| Portfolio for my **College Projects**|
-| December 2019| [Tic-Tac-Toe](https://github.com/henrique-efonseca/Tic-Tac-Toe)| Java **Tic-Tac-Toe game**|
+| December 2019| [Tic-Tac-Toe](https://github.com/henrique-efonseca/Tic-Tac-Toe)| Java **Tic-Tac-Toe** game|
