@@ -32,7 +32,7 @@
 		private boolean hasWinner, playing;
 		private JMenuBar menuBar;
 		private JMenu menu;
-		private JMenuItem quit, newGame;
+		private JMenuItem quit;
 
 		// Class COnstructor
 		public TicTacToeGUI() {
@@ -59,18 +59,6 @@
 			// Creates a section "File".
 			menu = new JMenu("File");
 
-			// Creates the option "New Game"
-			newGame = new JMenuItem("New Game");
-
-			// If "New Game" option is selected it resets the board for a new game.
-			newGame.addActionListener(new ActionListener() {
-				@Override
-				public void actionPerformed(ActionEvent e) {
-					playing = true;
-					resetBoard();
-				}
-			});
-
 			// Creates the option "Quit" 
 			quit = new JMenuItem("Quit");
 
@@ -88,8 +76,7 @@
 			// Adds the section "File" to the Menu Bar
 			menuBar.add(menu);
 
-			// Adds the options "New Game" & "Quit" to the section "File".
-			menu.add(newGame);
+			// Adds the option "Quit" to the section "File".
 			menu.add(quit);
 
 		}
@@ -209,4 +196,5 @@
 			}
 		}
 
+		
 	}
