@@ -8,7 +8,7 @@ The reason why I decided to make this game is basically the same as when I was m
 At this point, I had not learned anything about GUI in College so this was my first time ever developing a project with a GUI. With this, I had to learn by myself about **GUI** in general and **Java Swing** (searching online and using video tutorials). <br>
 
 
-This game isn't perfect but I had fun creating it and, most importantly, it allowed me to **learn** something with it (**Java Swing** and **GUI**). <br> 
+This game isn't perfect but I had fun creating it and, most importantly, it allowed me to **learn** something with it (**Java Swing** and **GUI**). <br>  <br>
 [Executable File Here](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/TicTacToe.jar) <br> <br>
 
 ## Game Screenshots
