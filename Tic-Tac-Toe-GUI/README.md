@@ -15,7 +15,7 @@ This game isn't perfect but I had fun creating it and, most importantly, it allo
 The rules of the game are simple, alternately each Player clicks with the mouse on a House to play (Houses are represented in a [3][3] JButton Matrix).
 The player who plays in 3 consecutive Houses (vertically, horizontally or perpendicular) wins the game.
 If every House is filled without this happening it's consider a Tie. <br>
-Players can play the game multiple times and the player who wins the most games is the Overall Winner. <br> <br>
+After the game ends it restarts automatically. <br> <br>
 
 Basically the Tic Tac Toe normal rules.
 Here are some screenshots of the game that are very self-explanatory:
