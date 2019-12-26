@@ -2,7 +2,7 @@
 
 This is the world-known 2 player game [Tic Tac Toe](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe/tic_tac_toe.java). <br> 
 <br>
-Because I'm learning **Java** in [College](https://github.com/henrique-efonseca/College-Projects) I wanted to put the knowledge I had so far to practice and develop something. It couldn't be something too complex because I had only completed the "_Introduction to Programming_" class. So I decided to make the [Tic Tac Toe](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe/tic_tac_toe.java) game but in a **text-based** version. 
+Because I'm learning **Java** in [College](https://github.com/henrique-efonseca/College-Projects) I wanted to put the knowledge I had so far to practice and develop something. It couldn't be something too complex because I had only completed the "_Introduction to Programming_" class. So I decided to make the **Tic Tac Toe** game but in a **text-based** version. 
 Hopefully, I'll be making the GUI version soon. <br> 
 
 The rules are simple, alternately each Player enters a Row and a Column, between [1-3], to choose a House to play (Houses are represented in a [3][3] Matrix).
