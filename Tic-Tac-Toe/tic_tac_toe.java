@@ -1,14 +1,9 @@
 /**
  * Static Class that represents the Tic Tac Toe game in a text-based version. 
+ 
  * This version is the normally known 2 Player game (1v1).
- * 
- * The rules are simple, alternately each Player enters a Row and a Column, between [1-3], 
+ * Alternately each Player enters a Row and a Column, between [1-3], 
  * to choose a House to play (Houses are represented in a [3][3] Matrix).
- * The player who plays in 3 consecutive Houses (vertically, horizontally or perpendicular) wins the game.
- * If very House is filled without this happening it's consider a Tie.
- * This game keeps track of both Player's Name; Game Winner, Overall Winner and Overall Score.
- * Players can play the game multiple times and the player who wins the most games is the Overall Winner.
- * 
  * 
  * @author Henrique Fonseca
  */
