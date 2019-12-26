@@ -22,13 +22,13 @@ Basically the Tic Tac Toe normal rules.
 Here are some screenshots of the game that are very self-explanatory:
 <br>
 
-<img src="https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_initial_board.jpeg" height="500" width="500">
+<img src="https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_initial_board.jpeg" height="500" width="500" align="center">
 <br> <br>
 
-![](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_over.jpeg)
+<img src="https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_over.jpeg" height="500" width="500" align="center">
 <br> <br>
 
-![](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_tie.jpeg)
+<img src="https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_tie.jpeg" height="500" width="500" align="center">
 <br> <br>
 
 
