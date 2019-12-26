@@ -5,7 +5,8 @@
 	 * This version is the normally known 2 Player game (1v1).
 	 * Alternately each Player clicks with the mouse
 	 * to choose a House to play (Houses are represented in a [3][3] JButton Matrix).
-	 * 
+	 * After the game ends it restarts automatically.
+	 *
 	 * @author Henrique Fonseca
 	 */
 
