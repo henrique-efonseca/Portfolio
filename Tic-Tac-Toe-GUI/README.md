@@ -3,7 +3,7 @@
 This is the world-known 2 player game [Tic Tac Toe](), but this time it's the **GUI** version. <br>
 
 
-I say "this time" because some time ago I made the Tic Tac Toe game but in a [text-based version](https://github.com/henrique-efonseca/Tic-Tac-Toe). <br>
+I say "this time" because some time ago I made the Tic Tac Toe game but in a [text-based version](https://github.com/henrique-efonseca/Portfolio/tree/master/Tic-Tac-Toe). <br>
 The reason why I decided to make this game is basically the same as when I was making the text-based version, I'm learning **Java** in [College](https://github.com/henrique-efonseca/College-Projects) and I wanted to put the knowledge I had so far to the test and develop something. So I decided to make the Tic Tac Toe game but this time in an improved version (GUI). <br>
 At this point, I had not learned anything about GUI in College so this was my first time ever developing a project with a GUI. With this, I had to learn by myself about **GUI** in general and **Java Swing** (searching online and using video tutorials). <br>
 
