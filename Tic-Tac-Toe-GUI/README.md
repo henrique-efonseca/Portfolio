@@ -1,6 +1,7 @@
 # Tic Tac Toe GUI
 
 This is the world-known 2 player game [Tic Tac Toe](), but this time it's the **GUI** version. <br>
+[Executable File Here](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/TicTacToe.jar)
 
 
 I say "this time" because some time ago I made the Tic Tac Toe game but in a [text-based version](https://github.com/henrique-efonseca/Portfolio/tree/master/Tic-Tac-Toe). <br>
