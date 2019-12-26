@@ -23,13 +23,13 @@ Here are some screenshots of the game that are very self-explanatory:
 <br>
 
 ![](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_initial_board.jpeg)
-<br>
+<br> <br>
 
 ![](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_over.jpeg)
-<br>
+<br> <br>
 
 ![](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_tie.jpeg)
-<br>
+<br> <br>
 
 
 
