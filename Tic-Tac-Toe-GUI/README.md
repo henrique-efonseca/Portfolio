@@ -20,6 +20,16 @@ After the game ends it restarts automatically. <br> <br>
 
 Basically the Tic Tac Toe normal rules.
 Here are some screenshots of the game that are very self-explanatory:
+<br>
+
+![](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_initial_board.jpeg)
+<br>
+
+![](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_over.jpeg)
+<br>
+
+![](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_tie.jpeg)
+<br>
 
 
 
