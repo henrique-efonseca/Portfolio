@@ -22,7 +22,7 @@ Basically the Tic Tac Toe normal rules.
 Here are some screenshots of the game that are very self-explanatory:
 <br>
 
-![Initial Board](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_initial_board.jpeg = 250x250)
+<img src="https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_initial_board.jpeg" height="100" width="100">
 <br> <br>
 
 ![](https://github.com/henrique-efonseca/Portfolio/blob/master/Tic-Tac-Toe-GUI/img/game_over.jpeg)
