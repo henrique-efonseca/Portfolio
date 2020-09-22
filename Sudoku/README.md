@@ -52,10 +52,11 @@ One good and simple addiction (and that I'll maybe add in the fucture) to this p
 To use the GUI version (it doesn't have a solver built-in) you just need to run the [GUI.py](https://github.com/henrique-efonseca/Portfolio/blob/master/Sudoku/GUI.py) .
 Note: You'll need to have pygame installed.
 <br>
+<br>
 
 ![Game](https://github.com/henrique-efonseca/Portfolio/blob/master/Sudoku/sudoku_gui.jpeg)
 <br>
-<brZ>
+
 I did this project based on the Tutorial of [Tec With Tim](https://techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking/).
 
 
