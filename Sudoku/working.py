@@ -38,7 +38,7 @@ def print_board(board):
             print("- - - - - - - - - - - - - ")
 
         for j in range(len(board[0]) ):
-            if j % 3 == 0 :
+            if j % 3 == 0 and j != 0:
                 print(" | ", end="")
 
             if j == 8:
