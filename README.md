@@ -16,6 +16,7 @@ The idea of this Portfolio is to document/organize my projects and to keep track
 |September 2019 - Present | [College Projects](https://github.com/henrique-efonseca/College-Projects)| Portfolio for my **College Projects**.|
 | December 2019| **Tic Tac Toe** <li> <a href="https://github.com/henrique-efonseca/Portfolio/tree/master/Tic-Tac-Toe"> Text-Based </a>  <li> <a href="https://github.com/henrique-efonseca/Portfolio/tree/master/Tic-Tac-Toe-GUI"> GUI </a>   <img width=150/>    | Java **Tic-Tac-Toe** game.|
 | April 2020 - June 2020 | [SokobanWars](https://github.com/henrique-efonseca/Portfolio/tree/master/SokobanWars) | **Sokoban Game** with Star Wars theme. | 
+| September 2020 | [Sudoku](https://github.com/henrique-efonseca/Portfolio/tree/master/Sudoku) | Basic **Sudoku Game** solver & GUI Sudoku. |
 
 <br>
 
