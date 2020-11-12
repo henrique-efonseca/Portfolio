@@ -19,21 +19,22 @@ public class Music {
 
     private final static File levelUp = new File("music/aaf.mov");
     private final static File move = new File("music/aaf.mov");
+    private static String playlist[] = new String[] {"./sounds/main.wav","./sounds/Start.wav"};
     private static Music INSTANCE;
-    
+
 
     private Music() {
         //throw new IllegalStateException("Utility class"); 
     }
 
-    
+
     public static Music getInstance() {
         if (INSTANCE == null) {
             INSTANCE = new Music();
         }
         return INSTANCE;
     }
-    
+
     public static void backingTrack() {
 
     }
@@ -58,19 +59,36 @@ public class Music {
         }
 
     }
-    
+
     public static void test() {
-        File file = new File("./Sounds/main.wav");
-      
+
+
         try {
-            Clip clip = AudioSystem.getClip();
-            clip.open(AudioSystem.getAudioInputStream(file));
-            clip.start();
+
+            int i = 0;
+            while (true) {
+
+                File file = new File(playlist[i]);
+                if (i > playlist.length ) {
+                    i = 0;
+                }
+
+                else {
+                    Clip clip = AudioSystem.getClip();
+                    clip.open(AudioSystem.getAudioInputStream(file));
+                    clip.start();
+
+                    while(clip.getMicrosecondLength() != clip.getMicrosecondPosition()) {}
+                    // Wait until clip ends 
+                    
+                    i++;
+                }
+            }
         } catch (LineUnavailableException | IOException | UnsupportedAudioFileException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-       
+
     }
 
 }

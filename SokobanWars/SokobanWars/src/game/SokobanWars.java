@@ -46,11 +46,9 @@ public class SokobanWars extends Canvas implements Observer {
     private Menu menu;
     ImageIcon test = new ImageIcon("./icon/Game_Icon.png");
 
-    private enum STATE {
-        MENU, GAME
-    };
 
-    private STATE State = STATE.MENU;
+
+
 
     private SokobanWars() {
 
@@ -64,7 +62,7 @@ public class SokobanWars extends Canvas implements Observer {
             throw new IllegalArgumentException();
         }
 
-        ImageMatrixGUI.getInstance().update();
+       
 
         setInfo();
 
@@ -75,7 +73,9 @@ public class SokobanWars extends Canvas implements Observer {
          */
 
         // render();
-        Music.test();
+       
+       // Music.test();
+        ImageMatrixGUI.getInstance().update();
         ImageMatrixGUI.getInstance().setIcon("./icon/Game_Icon.png");
     }
 
@@ -218,7 +218,7 @@ public class SokobanWars extends Canvas implements Observer {
 
     private void buildFileLevel(File file) {
 
-        // if (State == STATE.GAME) {
+    
 
         Scanner scanner;
 
@@ -418,7 +418,7 @@ public class SokobanWars extends Canvas implements Observer {
 
         Collections.sort(levels);
 
-        iterator = levels.listIterator(4);
+        iterator = levels.listIterator(12);
 
         currentLevel = iterator.next();
 

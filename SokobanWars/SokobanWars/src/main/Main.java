@@ -26,6 +26,8 @@ public class Main {
 
         ImageMatrixGUI.getInstance().update();
         
+        Music.test();
+        
         //Music music = Music.getInstance();
       //  Music.test();
     }
